@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Anything, i believes that i can try answer it**
 
-- 📫 How to reach me **matthewseko2212gmail.com**
+- 📫 How to reach me **matthewseko221@gmail.com**
 
 - ⚡ Fun fact **I have a Good Public Speaking**
 
