@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **js, python and iot**
 
-- 💬 Ask me about **Anything, i believes that i can try answer it**
+- 💬 Ask me about **Anyway, I will try to answer it.**
 
 - 📫 How to reach me **matthewseko221@gmail.com**
 
