@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matthew Morgan Marcelino O.P</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matthewxenadon" alt="matthewxenadon" /></a> </p>
-
 - 🌱 I’m currently learning **IoT, Laravel, JS, and React.**
 
 - 💬 Ask me about **Anything, I will try to answer it.**
@@ -13,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/matthewmorgan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="matthewmorgan" height="30" width="40" /></a>
 <a href="https://instagram.com/matthewlollllll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matthewlollllll" height="30" width="40" /></a>
 </p>
 
