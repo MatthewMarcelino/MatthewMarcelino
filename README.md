@@ -9,6 +9,25 @@
   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=matthewxenadon&label=Profile%20views&color=0e75b6&style=flat" alt="matthewxenadon" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matthewxenadon" alt="matthewxenadon" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/matthewlollllll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matthewlollllll" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matthewxenadon&show_icons=true&locale=en&layout=compact" alt="matthewxenadon" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matthewxenadon&show_icons=true&locale=en" alt="matthewxenadon" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matthewxenadon&" alt="matthewxenadon" /></p>
+
+
 ###
 
 <div align="center">
